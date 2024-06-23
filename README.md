@@ -34,7 +34,7 @@ pip install pandas numpy seaborn matplotlib plotly prophet
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your-username/delhi-climate-forecasting.git
+git clone git remote add origin https://github.com/VatsAmanJha/Delhi-Climate-Forecasting.git
 ```
 
 2. Navigate to the project directory:
